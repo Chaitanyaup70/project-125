@@ -1,0 +1,26 @@
+body{
+    background-image: url("https://t3.ftcdn.net/jpg/06/33/38/88/360_F_633388889_VEg0OqXK3ZRAz22w4zOK7K1FWpbCi7Mg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#div1{
+    background-color: black;
+    color: aliceblue;
+    
+}
+#div2{
+    height: 500px;
+    width: 500px;
+    background-color: black;
+    color: aqua;
+
+}
+
+canvas{
+    margin-top:135px ;
+    margin-left: 595px;
+    width: 475px;
+
+}
